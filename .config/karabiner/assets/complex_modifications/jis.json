@@ -1,8 +1,8 @@
 {
-  "title": "ここに独自ルールのタイトルを入力",
+  "title": "JISキーボードを使いやすくする",
   "rules": [
     {
-      "description": "HOME",
+      "description": "「Home」キーを「Command + ←」にする",
       "manipulators": [
         {
           "type": "basic",
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "description": "END",
+      "description": "「End」キーを「Command + →」にする",
       "manipulators": [
         {
           "type": "basic",
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "description": "plus",
+      "description": "テンキーの「+」を普通のキーコードにする",
       "manipulators": [
         {
           "type": "basic",
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "description": "minus",
+      "description": "テンキーの「-」を普通のキーコードにする",
       "manipulators": [
         {
           "type": "basic",
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "description": "command + pageup",
+      "description": "「Command + PageUp」を「Control + PageUp」にする",
       "manipulators": [
         {
           "type": "basic",
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "description": "command + pagedown",
+      "description": "「Command + PageDown」を「Control + PageDown」にする",
       "manipulators": [
         {
           "type": "basic",
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "description": "left_gui -> Control",
+      "description": "「左Windows」キーを「Control」キーにする",
       "manipulators": [
         {
           "type": "basic",
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "description": "left_control -> Command",
+      "description": "「左Ctrl」キーを「Command」キーにする",
       "manipulators": [
         {
           "type": "basic",
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "description": "right_control -> Command",
+      "description": "「右Ctrl」キーを「Command」キーにする",
       "manipulators": [
         {
           "type": "basic",
@@ -212,7 +212,7 @@
       ]
     },
     {
-      "description": "半角全角 -> 英数",
+      "description": "「半角全角」キーを「半角」キーにする",
       "manipulators": [
         {
           "type": "basic",
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "description": "無変換(左) -> 英数",
+      "description": "「無変換」キーを「半角」キーにする",
       "manipulators": [
         {
           "type": "basic",
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "description": "変換(右) -> かな",
+      "description": "「変換」キーを「全角」キーにする",
       "manipulators": [
         {
           "type": "basic",
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "description": "Kana -> かな",
+      "description": "「カナ」キーを「全角」キーにする",
       "manipulators": [
         {
           "type": "basic",
@@ -296,7 +296,7 @@
       ]
     },
     {
-      "description": "円 → バックスラッシュ",
+      "description": "「円マーク」を「バックスラッシュ」にする",
       "manipulators": [
         {
           "type": "basic",
@@ -320,7 +320,7 @@
       ]
     },
     {
-      "description": "print_screen",
+      "description": "「PrintScreen」キーを「Command + Shift + 4」にする",
       "manipulators": [
         {
           "type": "basic",
